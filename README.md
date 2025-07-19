@@ -1,8 +1,7 @@
-# 🧩 JSON Schema Builder
+# 🧩 JSON Schema Builder(Built with ❤️ by Rachit Goyal)
 
 A dynamic React-based tool for building and previewing JSON schema-like sample data interactively.  
 Built with **React**, **Ant Design**, **React Hook Form**, and **Vite**.
-
 ---
 
 ## 🚀 Features
@@ -18,7 +17,7 @@ Built with **React**, **Ant Design**, **React Hook Form**, and **Vite**.
 
 ## 🖼️ Preview
 
-![App Screenshot](https://via.placeholder.com/1000x300.png?text=Screenshot+Coming+Soon)
+![App Screenshot](`/public/json.png`)
 
 ---
 
@@ -34,7 +33,7 @@ Built with **React**, **Ant Design**, **React Hook Form**, and **Vite**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/json-schema-builder.git
+git clone https://github.com/Rachitxs/json-schema-builder.git
 cd json-schema-builder
 npm install
 npm run dev
