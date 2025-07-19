@@ -17,7 +17,7 @@ Built with **React**, **Ant Design**, **React Hook Form**, and **Vite**.
 
 ## 🖼️ Preview
 
-![App Screenshot](`/public/json.png`)
+![App Screenshot](/public/json.png)
 
 ---
 
