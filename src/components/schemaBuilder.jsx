@@ -17,7 +17,7 @@ const fieldTypes = [
 
 function SchemaBuilder({ onSchemaChange }) {
   const [fields, setFields] = useState([]);
-
+//initially required field ko false krdia h
   const addField = () => {
     setFields([
       ...fields,
@@ -48,6 +48,7 @@ function SchemaBuilder({ onSchemaChange }) {
   };
 
   const generateSampleJson = (fields2) => {
+    //
     const result = {};
 
     //invalid output wale case ko handle krna h
